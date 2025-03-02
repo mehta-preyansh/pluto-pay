@@ -62,18 +62,11 @@ Pluto Pay is a modern banking application built with Next.js, integrating Plaid 
 
 Pluto Pay can be deployed on Vercel, AWS, or other cloud platforms. Make sure to configure environment variables in your deployment settings.
 
-## Contributing
-
-1. Fork the repository.
-2. Create a new branch (`feature/your-feature`).
-3. Commit your changes.
-4. Push to your fork and create a pull request.
-
 ## License
 
 This project is licensed under the MIT License.
 
 ## Contact
 
-For any inquiries, reach out via email at [your-email@example.com](mailto\:your-email@example.com).
+For any inquiries, reach out via email at [your-email@example.com](mailto\:preyansh.dev@gmail.com).
 
