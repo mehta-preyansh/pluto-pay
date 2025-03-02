@@ -9,7 +9,6 @@ Pluto Pay is a modern banking application built with Next.js, integrating Plaid 
 - **Dwolla Integration**: Enable seamless ACH transfers and payments.
 - **Transaction History**: View detailed transaction logs.
 - **User Dashboard**: Intuitive UI for managing finances.
-- **Security**: End-to-end encryption and OAuth for authentication.
 
 ## Tech Stack
 
