@@ -68,5 +68,5 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For any inquiries, reach out via email at [your-email@example.com](mailto\:preyansh.dev@gmail.com).
+For any inquiries, reach out via email at [preyansh.dev@gmail.com](mailto\:preyansh.dev@gmail.com).
 
